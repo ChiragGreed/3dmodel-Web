@@ -32,10 +32,3 @@ yarn-error.log*
 *.sln
 *.sw?
 
-# Large binary files
-textures/*.bin
-textures/*.gltf
-textures/*.jpg
-textures/*.png
-textures/*.hdr
-textures/*.exr
